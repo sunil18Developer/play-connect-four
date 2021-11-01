@@ -43,9 +43,9 @@
                   <configuration>
                       <artifactItems>
                           <artifactItem>
-                              <groupId>com.heroku</groupId>
+                              <groupId>com.github.jsimone</groupId>
                               <artifactId>webapp-runner</artifactId>
-                              <version>${webapp-runner.version}</version>
+                              <version>8.5.47.2</version>
                               <destFileName>webapp-runner.jar</destFileName>
                           </artifactItem>
                       </artifactItems>
