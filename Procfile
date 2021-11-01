@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/dependency/connect_four.jar --port $PORT target/connect_four.war
+web: java $JAVA_OPTS -jar target/connect_four.jar --port $PORT target/connect_four.war
