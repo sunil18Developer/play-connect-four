@@ -384,6 +384,9 @@
                             }
                         }
 
+                        firstPlayerWin = 0;
+                        secondPlayerWin = 0;      
+                        
                         /*
                           Here we finding the sequence of players
                           in columns wise.
@@ -416,6 +419,11 @@
                             }
                         }
 
+
+
+                        firstPlayerWin = 0;
+                        secondPlayerWin = 0;
+                        
                         var k = 0,i=0,j=0;
 
                         //rb
